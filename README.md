@@ -23,4 +23,4 @@
 - 队长-妙生
 
 ## ChangeLog
-191107 Adon create
+191107 Adon 创建
