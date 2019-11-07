@@ -21,3 +21,6 @@
 - 观察员-Adon
 - 组员-麒麟
 - 队长-妙生
+
+## ChangeLog
+191107 Adon create
